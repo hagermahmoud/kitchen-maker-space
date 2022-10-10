@@ -121,7 +121,7 @@ nav .nav-link:hover {
 
 .hero-section .content p {
   color: black;
-  font-size: 1.4rem;
+  font-size: 2.4rem;
 }
 
 .hero-section .content p span.purple {
@@ -284,7 +284,7 @@ section.features .features-section {
 }
 .bulder img{  
     padding-top: 20px;
-    width: 30%;  
+    width: 40%;  
 }
 .team{
     padding: 20px;
