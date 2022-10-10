@@ -270,8 +270,8 @@ section.features .features-section {
 .bulder{
     padding: 20px;
     text-align: center;
-    color: hsl(51, 90%, 51%);
-    font-size: 3.6rem;
+    color:black ;
+    
 
 }
 .bulder h1 ,.addrea h1,a{
@@ -284,7 +284,7 @@ section.features .features-section {
 }
 .bulder img{  
     padding-top: 20px;
-    width: 40%;  
+    width: 45%;  
 }
 .team{
     padding: 20px;
@@ -301,12 +301,12 @@ text-align: center;
     padding: 20px;
     text-align: center;
 font-family: monospace;
-font-size: 3.6rem;
+font-size: 2rem;
 }
 
 .hagoor img{
     padding: 20px;
-    width: 58%;
+    width: 50%;
 }
 
 
