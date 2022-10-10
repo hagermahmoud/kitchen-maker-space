@@ -341,7 +341,10 @@ footer {
   padding: 0 0.5rem;
   font-size: 1.6rem;
 }
-
+.footer-section .socials a{
+text-decoration:none;
+color:black;
+}
 .footer-section .socials i:hover {
     color: hsl(51, 92%, 49%);
   
